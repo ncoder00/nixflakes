@@ -3,7 +3,7 @@
 My NixOS configuration.
 
 ## Directory Structure
-
+```
 └── 📁flake
     └── 📁home-manager
         └── home-packages.nix
@@ -63,3 +63,4 @@ My NixOS configuration.
     └── flake.nix
     └── LICENSE
     └── README.md
+```
