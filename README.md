@@ -1,0 +1,2 @@
+# nixflakes
+My NixOS configuration.
